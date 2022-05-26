@@ -1,0 +1,14 @@
+name: shiny-test12
+title: shiny-test1
+username: xu.fei
+account: xu.fei
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 11039
+bundleId: 56939
+url: https://colorado.rstudio.com/rsc/myshiny-test/
+when: 1653585252.7796
+lastSyncTime: 1653585252.77961
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rprofile|.Ruserdata/xu.fei/.Rhistory|reactive/app.R
